@@ -70,13 +70,7 @@
         app:layout_constraintBaseline_toBaselineOf="@+id/button04"
         app:layout_constraintStart_toEndOf="@+id/button04" />
 
-    <Button
-        android:id="@+id/minus"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="-"
-        app:layout_constraintBaseline_toBaselineOf="@+id/button06"
-        app:layout_constraintStart_toEndOf="@+id/button06" />
+   
 
     <Button
         android:id="@+id/button02"
